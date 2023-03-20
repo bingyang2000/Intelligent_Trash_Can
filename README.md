@@ -1,0 +1,2 @@
+# Intelligent_Trash_Can
+基于PyTorch的智能垃圾桶
